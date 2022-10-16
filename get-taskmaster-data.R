@@ -23,6 +23,11 @@ getSeriesTotals <- function(series) {
         mutate(episode = cumsum(temp), .before = Task) %>% 
         select(-temp)
     
+    episodes <- rawTable %>% 
+        group_by(episode) %>% 
+        slice_head(n = 1) %>% 
+        select(episode, episodeRawString = Task)
+    
     dataTotals <- rawTable %>% 
         filter(!str_detect(Task, "^Episode")) %>% 
         pivot_longer(
@@ -34,7 +39,8 @@ getSeriesTotals <- function(series) {
         select(-c(task, description)) %>% 
         mutate(series = series, .before = everything())
     
-    return(dataTotals)
+    dataTotals %>% 
+        left_join(episodes)
 }
 
 rawTotals <- map_dfr(seq(1, 13), ~getSeriesTotals(.x))
@@ -42,7 +48,19 @@ rawTotals <- map_dfr(seq(1, 13), ~getSeriesTotals(.x))
 totals <- rawTotals %>% 
     mutate(total = as.numeric(str_replace(score, "\\[[0-9]\\]", ""))) %>% 
     select(-score) %>% 
-    arrange(series, episode, total)
+    arrange(series, episode, total) %>% 
+    # remove episode number
+    mutate(episodeString = str_trim(str_replace(episodeRawString, "^Episode [0-9]+:", ""))) %>%
+    # separate into date and name
+    separate(episodeString, into = c("name", "dateRaw"), remove = F, sep = " \\(") %>% 
+    # formatting
+    mutate(
+        name = str_trim(name),
+        dateRaw = (str_replace(dateRaw, "\\)", "")),
+        date = parse_date(dateRaw, "%d %B %Y")
+    ) %>% 
+    select(-c(ends_with("String"), dateRaw)) %>% 
+    select(series, episode, name, date, everything())
 
 ## Get Series Data ----
 getSeriesData <- function(series) {
@@ -156,3 +174,4 @@ dupes <- taskmaster2 %>%
     filter(n() > 1)
 
 # Export ----
+totals %>% write_csv(here("outputs/taskmaster_episode_totals.csv"))

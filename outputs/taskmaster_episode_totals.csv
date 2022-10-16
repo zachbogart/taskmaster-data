@@ -1,0 +1,561 @@
+series,episode,name,date,player,total
+1,1,Melon buffet.,2015-07-28,Roisin Conaty,7
+1,1,Melon buffet.,2015-07-28,Josh Widdicombe,13
+1,1,Melon buffet.,2015-07-28,Tim Key,17
+1,1,Melon buffet.,2015-07-28,Frank Skinner,19
+1,1,Melon buffet.,2015-07-28,Romesh Ranganathan,19
+1,2,The pie whisperer.,2015-08-04,Frank Skinner,9
+1,2,The pie whisperer.,2015-08-04,Romesh Ranganathan,14
+1,2,The pie whisperer.,2015-08-04,Josh Widdicombe,16
+1,2,The pie whisperer.,2015-08-04,Tim Key,18
+1,2,The pie whisperer.,2015-08-04,Roisin Conaty,21
+1,3,The poet and the egg.,2015-08-11,Roisin Conaty,9
+1,3,The poet and the egg.,2015-08-11,Frank Skinner,15
+1,3,The poet and the egg.,2015-08-11,Tim Key,16
+1,3,The poet and the egg.,2015-08-11,Josh Widdicombe,22
+1,3,The poet and the egg.,2015-08-11,Romesh Ranganathan,22
+1,4,Down an octave.,2015-08-18,Roisin Conaty,9
+1,4,Down an octave.,2015-08-18,Tim Key,9
+1,4,Down an octave.,2015-08-18,Romesh Ranganathan,10
+1,4,Down an octave.,2015-08-18,Frank Skinner,14
+1,4,Down an octave.,2015-08-18,Josh Widdicombe,16
+1,5,Little denim shorts.,2015-08-25,Tim Key,10
+1,5,Little denim shorts.,2015-08-25,Roisin Conaty,14
+1,5,Little denim shorts.,2015-08-25,Romesh Ranganathan,16
+1,5,Little denim shorts.,2015-08-25,Josh Widdicombe,18
+1,5,Little denim shorts.,2015-08-25,Frank Skinner,20
+1,6,The last supper.,2015-09-01,Roisin Conaty,8
+1,6,The last supper.,2015-09-01,Josh Widdicombe,9
+1,6,The last supper.,2015-09-01,Romesh Ranganathan,12
+1,6,The last supper.,2015-09-01,Frank Skinner,16
+1,6,The last supper.,2015-09-01,Tim Key,18
+2,1,Fear of failure.,2016-06-21,Joe Wilkinson,8
+2,1,Fear of failure.,2016-06-21,Doc Brown,9
+2,1,Fear of failure.,2016-06-21,Katherine Ryan,17
+2,1,Fear of failure.,2016-06-21,Jon Richardson,18
+2,1,Fear of failure.,2016-06-21,Richard Osman,20
+2,2,Pork is a sausage.,2016-06-28,Joe Wilkinson,13
+2,2,Pork is a sausage.,2016-06-28,Richard Osman,15
+2,2,Pork is a sausage.,2016-06-28,Doc Brown,18
+2,2,Pork is a sausage.,2016-06-28,Katherine Ryan,19
+2,2,Pork is a sausage.,2016-06-28,Jon Richardson,25
+2,3,A pistachio eclair.,2016-07-05,Jon Richardson,17
+2,3,A pistachio eclair.,2016-07-05,Doc Brown,21
+2,3,A pistachio eclair.,2016-07-05,Joe Wilkinson,25
+2,3,A pistachio eclair.,2016-07-05,Richard Osman,27
+2,3,A pistachio eclair.,2016-07-05,Katherine Ryan,30
+2,4,Welcome to Rico Face.,2016-07-12,Richard Osman,5
+2,4,Welcome to Rico Face.,2016-07-12,Joe Wilkinson,12
+2,4,Welcome to Rico Face.,2016-07-12,Katherine Ryan,15
+2,4,Welcome to Rico Face.,2016-07-12,Jon Richardson,17
+2,4,Welcome to Rico Face.,2016-07-12,Doc Brown,18
+2,5,There's strength in arches.,2016-07-19,Joe Wilkinson,11
+2,5,There's strength in arches.,2016-07-19,Doc Brown,12
+2,5,There's strength in arches.,2016-07-19,Jon Richardson,13
+2,5,There's strength in arches.,2016-07-19,Katherine Ryan,13
+2,5,There's strength in arches.,2016-07-19,Richard Osman,19
+3,1,A pea in a haystack.,2016-10-04,Paul Chowdhry,8
+3,1,A pea in a haystack.,2016-10-04,Dave Gorman,13
+3,1,A pea in a haystack.,2016-10-04,Rob Beckett,15
+3,1,A pea in a haystack.,2016-10-04,Sara Pascoe,16
+3,1,A pea in a haystack.,2016-10-04,Al Murray,21
+3,2,The dong and the gong.,2016-10-11,Paul Chowdhry,13
+3,2,The dong and the gong.,2016-10-11,Sara Pascoe,16
+3,2,The dong and the gong.,2016-10-11,Dave Gorman,17
+3,2,The dong and the gong.,2016-10-11,Al Murray,18
+3,2,The dong and the gong.,2016-10-11,Rob Beckett,21
+3,3,Little polythene grief cave.,2016-10-18,Al Murray,9
+3,3,Little polythene grief cave.,2016-10-18,Sara Pascoe,17
+3,3,Little polythene grief cave.,2016-10-18,Rob Beckett,19
+3,3,Little polythene grief cave.,2016-10-18,Dave Gorman,21
+3,3,Little polythene grief cave.,2016-10-18,Paul Chowdhry,22
+3,4,A very nuanced character.,2016-10-25,Paul Chowdhry,11
+3,4,A very nuanced character.,2016-10-25,Sara Pascoe,14
+3,4,A very nuanced character.,2016-10-25,Rob Beckett,15
+3,4,A very nuanced character.,2016-10-25,Al Murray,16
+3,4,A very nuanced character.,2016-10-25,Dave Gorman,17
+3,5,The F.I.P.,2016-11-01,Sara Pascoe,9
+3,5,The F.I.P.,2016-11-01,Paul Chowdhry,12
+3,5,The F.I.P.,2016-11-01,Dave Gorman,13
+3,5,The F.I.P.,2016-11-01,Al Murray,16
+3,5,The F.I.P.,2016-11-01,Rob Beckett,17
+4,1,A fat bald white man.,2017-04-25,Hugh Dennis,13
+4,1,A fat bald white man.,2017-04-25,Lolly Adefope,13
+4,1,A fat bald white man.,2017-04-25,Mel Giedroyc,16
+4,1,A fat bald white man.,2017-04-25,Joe Lycett,17
+4,1,A fat bald white man.,2017-04-25,Noel Fielding,18
+4,2,Look at me.,2017-05-02,Joe Lycett,13
+4,2,Look at me.,2017-05-02,Hugh Dennis,17
+4,2,Look at me.,2017-05-02,Lolly Adefope,18
+4,2,Look at me.,2017-05-02,Noel Fielding,18
+4,2,Look at me.,2017-05-02,Mel Giedroyc,20
+4,3,Hollowing out a baguette.,2017-05-09,Mel Giedroyc,3
+4,3,Hollowing out a baguette.,2017-05-09,Lolly Adefope,12
+4,3,Hollowing out a baguette.,2017-05-09,Hugh Dennis,15
+4,3,Hollowing out a baguette.,2017-05-09,Joe Lycett,19
+4,3,Hollowing out a baguette.,2017-05-09,Noel Fielding,19
+4,4,Friendship is truth.,2017-05-16,Lolly Adefope,15
+4,4,Friendship is truth.,2017-05-16,Hugh Dennis,17
+4,4,Friendship is truth.,2017-05-16,Joe Lycett,19
+4,4,Friendship is truth.,2017-05-16,Noel Fielding,23
+4,4,Friendship is truth.,2017-05-16,Mel Giedroyc,24
+4,5,Meat.,2017-05-23,Noel Fielding,12
+4,5,Meat.,2017-05-23,Lolly Adefope,15
+4,5,Meat.,2017-05-23,Joe Lycett,18
+4,5,Meat.,2017-05-23,Hugh Dennis,21
+4,5,Meat.,2017-05-23,Mel Giedroyc,21
+4,6,Spatchcock it.,2017-05-30,Hugh Dennis,13
+4,6,Spatchcock it.,2017-05-30,Joe Lycett,14
+4,6,Spatchcock it.,2017-05-30,Noel Fielding,15
+4,6,Spatchcock it.,2017-05-30,Mel Giedroyc,16
+4,6,Spatchcock it.,2017-05-30,Lolly Adefope,19
+4,7,No stars for naughty boys.,2017-06-06,Mel Giedroyc,13
+4,7,No stars for naughty boys.,2017-06-06,Noel Fielding,19
+4,7,No stars for naughty boys.,2017-06-06,Hugh Dennis,20
+4,7,No stars for naughty boys.,2017-06-06,Joe Lycett,20
+4,7,No stars for naughty boys.,2017-06-06,Lolly Adefope,20
+4,8,Tony Three Pies.,2017-06-13,Hugh Dennis,13
+4,8,Tony Three Pies.,2017-06-13,Lolly Adefope,13
+4,8,Tony Three Pies.,2017-06-13,Joe Lycett,16
+4,8,Tony Three Pies.,2017-06-13,Noel Fielding,20
+4,8,Tony Three Pies.,2017-06-13,Mel Giedroyc,21
+5,1,Dignity intact.,2017-09-13,Aisling Bea,13
+5,1,Dignity intact.,2017-09-13,Nish Kumar,13
+5,1,Dignity intact.,2017-09-13,Sally Phillips,14
+5,1,Dignity intact.,2017-09-13,Mark Watson,17
+5,1,Dignity intact.,2017-09-13,Bob Mortimer,18
+5,2,The leprechaun or the lesbian.,2017-09-20,Bob Mortimer,16
+5,2,The leprechaun or the lesbian.,2017-09-20,Aisling Bea,17
+5,2,The leprechaun or the lesbian.,2017-09-20,Mark Watson,19
+5,2,The leprechaun or the lesbian.,2017-09-20,Nish Kumar,19
+5,2,The leprechaun or the lesbian.,2017-09-20,Sally Phillips,20
+5,3,Phoenix.,2017-09-27,Nish Kumar,12
+5,3,Phoenix.,2017-09-27,Aisling Bea,13
+5,3,Phoenix.,2017-09-27,Mark Watson,15
+5,3,Phoenix.,2017-09-27,Sally Phillips,16
+5,3,Phoenix.,2017-09-27,Bob Mortimer,17
+5,4,Residue around the hoof.,2017-10-04,Nish Kumar,12
+5,4,Residue around the hoof.,2017-10-04,Sally Phillips,15
+5,4,Residue around the hoof.,2017-10-04,Bob Mortimer,21
+5,4,Residue around the hoof.,2017-10-04,Aisling Bea,24
+5,4,Residue around the hoof.,2017-10-04,Mark Watson,24
+5,5,A wind-dried puffin.,2017-10-11,Nish Kumar,13
+5,5,A wind-dried puffin.,2017-10-11,Bob Mortimer,14
+5,5,A wind-dried puffin.,2017-10-11,Sally Phillips,14
+5,5,A wind-dried puffin.,2017-10-11,Aisling Bea,15
+5,5,A wind-dried puffin.,2017-10-11,Mark Watson,16
+5,6,Spoony Neeson.,2017-10-18,Nish Kumar,12
+5,6,Spoony Neeson.,2017-10-18,Mark Watson,13
+5,6,Spoony Neeson.,2017-10-18,Aisling Bea,17
+5,6,Spoony Neeson.,2017-10-18,Bob Mortimer,18
+5,6,Spoony Neeson.,2017-10-18,Sally Phillips,18
+5,7,Boing boing.,2017-10-25,Nish Kumar,12
+5,7,Boing boing.,2017-10-25,Mark Watson,15
+5,7,Boing boing.,2017-10-25,Sally Phillips,16
+5,7,Boing boing.,2017-10-25,Aisling Bea,17
+5,7,Boing boing.,2017-10-25,Bob Mortimer,18
+5,8,Their water's so delicious.,2017-11-01,Aisling Bea,10
+5,8,Their water's so delicious.,2017-11-01,Mark Watson,11
+5,8,Their water's so delicious.,2017-11-01,Nish Kumar,14
+5,8,Their water's so delicious.,2017-11-01,Bob Mortimer,16
+5,8,Their water's so delicious.,2017-11-01,Sally Phillips,17
+6,1,The old soft curved padlock.,2018-05-02,Asim Chaudhry,8
+6,1,The old soft curved padlock.,2018-05-02,Tim Vine,11
+6,1,The old soft curved padlock.,2018-05-02,Liza Tarbuck,17
+6,1,The old soft curved padlock.,2018-05-02,Alice Levine,18
+6,1,The old soft curved padlock.,2018-05-02,Russell Howard,18
+6,2,Tarpeters.,2018-05-09,Alice Levine,13
+6,2,Tarpeters.,2018-05-09,Asim Chaudhry,13
+6,2,Tarpeters.,2018-05-09,Russell Howard,14
+6,2,Tarpeters.,2018-05-09,Tim Vine,14
+6,2,Tarpeters.,2018-05-09,Liza Tarbuck,19
+6,3,One warm prawn.,2018-05-16,Alice Levine,6
+6,3,One warm prawn.,2018-05-16,Tim Vine,15
+6,3,One warm prawn.,2018-05-16,Russell Howard,16
+6,3,One warm prawn.,2018-05-16,Asim Chaudhry,19
+6,3,One warm prawn.,2018-05-16,Liza Tarbuck,22
+6,4,BMXing!,2018-05-23,Asim Chaudhry,18
+6,4,BMXing!,2018-05-23,Liza Tarbuck,20
+6,4,BMXing!,2018-05-23,Tim Vine,21
+6,4,BMXing!,2018-05-23,Alice Levine,23
+6,4,BMXing!,2018-05-23,Russell Howard,24
+6,5,H.,2018-05-30,Alice Levine,16
+6,5,H.,2018-05-30,Asim Chaudhry,19
+6,5,H.,2018-05-30,Russell Howard,21
+6,5,H.,2018-05-30,Liza Tarbuck,25
+6,5,H.,2018-05-30,Tim Vine,26
+6,6,We met at mealtimes.,2018-06-06,Russell Howard,12
+6,6,We met at mealtimes.,2018-06-06,Alice Levine,15
+6,6,We met at mealtimes.,2018-06-06,Asim Chaudhry,17
+6,6,We met at mealtimes.,2018-06-06,Liza Tarbuck,20
+6,6,We met at mealtimes.,2018-06-06,Tim Vine,23
+6,7,Roadkill doused in syrup.,2018-06-13,Alice Levine,14
+6,7,Roadkill doused in syrup.,2018-06-13,Asim Chaudhry,15
+6,7,Roadkill doused in syrup.,2018-06-13,Liza Tarbuck,17
+6,7,Roadkill doused in syrup.,2018-06-13,Tim Vine,20
+6,7,Roadkill doused in syrup.,2018-06-13,Russell Howard,21
+6,8,What kind of pictures?,2018-06-20,Alice Levine,13
+6,8,What kind of pictures?,2018-06-20,Asim Chaudhry,16
+6,8,What kind of pictures?,2018-06-20,Tim Vine,16
+6,8,What kind of pictures?,2018-06-20,Liza Tarbuck,17
+6,8,What kind of pictures?,2018-06-20,Russell Howard,17
+6,9,The Bubble Brothers.,2018-06-27,Asim Chaudhry,12
+6,9,The Bubble Brothers.,2018-06-27,Liza Tarbuck,14
+6,9,The Bubble Brothers.,2018-06-27,Russell Howard,15
+6,9,The Bubble Brothers.,2018-06-27,Tim Vine,16
+6,9,The Bubble Brothers.,2018-06-27,Alice Levine,18
+6,10,He was a different man.,2018-07-04,Liza Tarbuck,10
+6,10,He was a different man.,2018-07-04,Russell Howard,12
+6,10,He was a different man.,2018-07-04,Tim Vine,13
+6,10,He was a different man.,2018-07-04,Alice Levine,16
+6,10,He was a different man.,2018-07-04,Asim Chaudhry,22
+7,1,The mean bean.,2018-09-05,James Acaster,11
+7,1,The mean bean.,2018-09-05,Phil Wang,13
+7,1,The mean bean.,2018-09-05,Jessica Knappett,14
+7,1,The mean bean.,2018-09-05,Rhod Gilbert,19
+7,1,The mean bean.,2018-09-05,Kerry Godliman,20
+7,2,My eyes are circles.,2018-09-12,James Acaster,16
+7,2,My eyes are circles.,2018-09-12,Phil Wang,19
+7,2,My eyes are circles.,2018-09-12,Rhod Gilbert,22
+7,2,My eyes are circles.,2018-09-12,Jessica Knappett,23
+7,2,My eyes are circles.,2018-09-12,Kerry Godliman,23
+7,3,Twelve blush majesty two.,2018-09-19,Rhod Gilbert,9
+7,3,Twelve blush majesty two.,2018-09-19,Jessica Knappett,15
+7,3,Twelve blush majesty two.,2018-09-19,Phil Wang,15
+7,3,Twelve blush majesty two.,2018-09-19,Kerry Godliman,17
+7,3,Twelve blush majesty two.,2018-09-19,James Acaster,18
+7,4,OLLIE.,2018-09-26,Phil Wang,12
+7,4,OLLIE.,2018-09-26,Jessica Knappett,16
+7,4,OLLIE.,2018-09-26,Kerry Godliman,16
+7,4,OLLIE.,2018-09-26,James Acaster,17
+7,4,OLLIE.,2018-09-26,Rhod Gilbert,17
+7,5,Lotta soup.,2018-10-03,Phil Wang,9
+7,5,Lotta soup.,2018-10-03,Kerry Godliman,17
+7,5,Lotta soup.,2018-10-03,Rhod Gilbert,18
+7,5,Lotta soup.,2018-10-03,James Acaster,20
+7,5,Lotta soup.,2018-10-03,Jessica Knappett,25
+7,6,A coquettish fascinator.,2018-10-10,Jessica Knappett,16
+7,6,A coquettish fascinator.,2018-10-10,Kerry Godliman,17
+7,6,A coquettish fascinator.,2018-10-10,Phil Wang,17
+7,6,A coquettish fascinator.,2018-10-10,Rhod Gilbert,18
+7,6,A coquettish fascinator.,2018-10-10,James Acaster,19
+7,7,The perfect stuff.,2018-10-17,Kerry Godliman,14
+7,7,The perfect stuff.,2018-10-17,James Acaster,15
+7,7,The perfect stuff.,2018-10-17,Phil Wang,15
+7,7,The perfect stuff.,2018-10-17,Jessica Knappett,18
+7,7,The perfect stuff.,2018-10-17,Rhod Gilbert,21
+7,8,Mother honks her horn.,2018-10-24,Phil Wang,9
+7,8,Mother honks her horn.,2018-10-24,James Acaster,16
+7,8,Mother honks her horn.,2018-10-24,Kerry Godliman,16
+7,8,Mother honks her horn.,2018-10-24,Jessica Knappett,19
+7,8,Mother honks her horn.,2018-10-24,Rhod Gilbert,20
+7,9,The pendulum draws the eye.,2018-10-31,Rhod Gilbert,9
+7,9,The pendulum draws the eye.,2018-10-31,Phil Wang,11
+7,9,The pendulum draws the eye.,2018-10-31,James Acaster,14
+7,9,The pendulum draws the eye.,2018-10-31,Jessica Knappett,18
+7,9,The pendulum draws the eye.,2018-10-31,Kerry Godliman,21
+7,10,I can hear it gooping.,2018-11-07,Jessica Knappett,11
+7,10,I can hear it gooping.,2018-11-07,Phil Wang,13
+7,10,I can hear it gooping.,2018-11-07,Rhod Gilbert,14
+7,10,I can hear it gooping.,2018-11-07,Kerry Godliman,15
+7,10,I can hear it gooping.,2018-11-07,James Acaster,19
+8,1,Hello.,2019-05-08,Paul Sinha,10
+8,1,Hello.,2019-05-08,Joe Thomas,12
+8,1,Hello.,2019-05-08,Sian Gibson,16
+8,1,Hello.,2019-05-08,Iain Stirling,20
+8,1,Hello.,2019-05-08,Lou Sanders,20
+8,2,A novel about Russian Gulags.,2019-05-15,Iain Stirling,13
+8,2,A novel about Russian Gulags.,2019-05-15,Sian Gibson,16
+8,2,A novel about Russian Gulags.,2019-05-15,Paul Sinha,19
+8,2,A novel about Russian Gulags.,2019-05-15,Joe Thomas,20
+8,2,A novel about Russian Gulags.,2019-05-15,Lou Sanders,21
+8,3,Stuck in a mammal groove.,2019-05-22,Joe Thomas,10
+8,3,Stuck in a mammal groove.,2019-05-22,Paul Sinha,11
+8,3,Stuck in a mammal groove.,2019-05-22,Sian Gibson,16
+8,3,Stuck in a mammal groove.,2019-05-22,Iain Stirling,17
+8,3,Stuck in a mammal groove.,2019-05-22,Lou Sanders,19
+8,4,The barrel dad.,2019-05-29,Iain Stirling,10
+8,4,The barrel dad.,2019-05-29,Paul Sinha,11
+8,4,The barrel dad.,2019-05-29,Joe Thomas,15
+8,4,The barrel dad.,2019-05-29,Lou Sanders,15
+8,4,The barrel dad.,2019-05-29,Sian Gibson,15
+8,5,Stay humble.,2019-06-05,Paul Sinha,14
+8,5,Stay humble.,2019-06-05,Sian Gibson,17
+8,5,Stay humble.,2019-06-05,Joe Thomas,20
+8,5,Stay humble.,2019-06-05,Lou Sanders,20
+8,5,Stay humble.,2019-06-05,Iain Stirling,21
+8,6,Rock 'n' roll umlaut.,2019-06-12,Paul Sinha,9
+8,6,Rock 'n' roll umlaut.,2019-06-12,Iain Stirling,10
+8,6,Rock 'n' roll umlaut.,2019-06-12,Lou Sanders,12
+8,6,Rock 'n' roll umlaut.,2019-06-12,Joe Thomas,14
+8,6,Rock 'n' roll umlaut.,2019-06-12,Sian Gibson,15
+8,7,This is Trevor.,2019-06-19,Iain Stirling,10
+8,7,This is Trevor.,2019-06-19,Sian Gibson,11
+8,7,This is Trevor.,2019-06-19,Lou Sanders,13
+8,7,This is Trevor.,2019-06-19,Paul Sinha,13
+8,7,This is Trevor.,2019-06-19,Joe Thomas,24
+8,8,Aquatic sewing machine.,2019-06-26,Joe Thomas,7
+8,8,Aquatic sewing machine.,2019-06-26,Sian Gibson,8
+8,8,Aquatic sewing machine.,2019-06-26,Lou Sanders,12
+8,8,Aquatic sewing machine.,2019-06-26,Iain Stirling,18
+8,8,Aquatic sewing machine.,2019-06-26,Paul Sinha,21
+8,9,I've been a bit ill.,2019-07-03,Joe Thomas,16
+8,9,I've been a bit ill.,2019-07-03,Sian Gibson,16
+8,9,I've been a bit ill.,2019-07-03,Paul Sinha,17
+8,9,I've been a bit ill.,2019-07-03,Iain Stirling,19
+8,9,I've been a bit ill.,2019-07-03,Lou Sanders,20
+8,10,Clumpy swayey clumsy man.,2019-07-10,Paul Sinha,11
+8,10,Clumpy swayey clumsy man.,2019-07-10,Joe Thomas,12
+8,10,Clumpy swayey clumsy man.,2019-07-10,Lou Sanders,12
+8,10,Clumpy swayey clumsy man.,2019-07-10,Sian Gibson,13
+8,10,Clumpy swayey clumsy man.,2019-07-10,Iain Stirling,18
+9,1,Join our cult.,2019-09-04,Jo Brand,12
+9,1,Join our cult.,2019-09-04,Katy Wix,12
+9,1,Join our cult.,2019-09-04,David Baddiel,14
+9,1,Join our cult.,2019-09-04,Ed Gamble,16
+9,1,Join our cult.,2019-09-04,Rose Matafeo,17
+9,2,Butter in the microwave.,2019-09-11,David Baddiel,10
+9,2,Butter in the microwave.,2019-09-11,Jo Brand,15
+9,2,Butter in the microwave.,2019-09-11,Rose Matafeo,15
+9,2,Butter in the microwave.,2019-09-11,Katy Wix,18
+9,2,Butter in the microwave.,2019-09-11,Ed Gamble,19
+9,3,Five miles per day.,2019-09-18,Jo Brand,15
+9,3,Five miles per day.,2019-09-18,David Baddiel,17
+9,3,Five miles per day.,2019-09-18,Ed Gamble,17
+9,3,Five miles per day.,2019-09-18,Rose Matafeo,20
+9,3,Five miles per day.,2019-09-18,Katy Wix,23
+9,4,Quisps.,2019-09-25,Katy Wix,11
+9,4,Quisps.,2019-09-25,David Baddiel,12
+9,4,Quisps.,2019-09-25,Ed Gamble,16
+9,4,Quisps.,2019-09-25,Jo Brand,16
+9,4,Quisps.,2019-09-25,Rose Matafeo,18
+9,5,Another spoon.,2019-10-02,David Baddiel,12
+9,5,Another spoon.,2019-10-02,Ed Gamble,14
+9,5,Another spoon.,2019-10-02,Katy Wix,16
+9,5,Another spoon.,2019-10-02,Rose Matafeo,18
+9,5,Another spoon.,2019-10-02,Jo Brand,19
+9,6,Bready bready bready.,2019-10-09,David Baddiel,10
+9,6,Bready bready bready.,2019-10-09,Katy Wix,13
+9,6,Bready bready bready.,2019-10-09,Rose Matafeo,14
+9,6,Bready bready bready.,2019-10-09,Jo Brand,16
+9,6,Bready bready bready.,2019-10-09,Ed Gamble,19
+9,7,A cuddle.,2019-10-16,Rose Matafeo,11
+9,7,A cuddle.,2019-10-16,David Baddiel,14
+9,7,A cuddle.,2019-10-16,Ed Gamble,17
+9,7,A cuddle.,2019-10-16,Jo Brand,22
+9,7,A cuddle.,2019-10-16,Katy Wix,24
+9,8,Shaqinahat.,2019-10-23,David Baddiel,10
+9,8,Shaqinahat.,2019-10-23,Jo Brand,15
+9,8,Shaqinahat.,2019-10-23,Katy Wix,15
+9,8,Shaqinahat.,2019-10-23,Rose Matafeo,17
+9,8,Shaqinahat.,2019-10-23,Ed Gamble,20
+9,9,Don't like them go bang.,2019-10-30,Jo Brand,14
+9,9,Don't like them go bang.,2019-10-30,Ed Gamble,17
+9,9,Don't like them go bang.,2019-10-30,Katy Wix,17
+9,9,Don't like them go bang.,2019-10-30,Rose Matafeo,17
+9,9,Don't like them go bang.,2019-10-30,David Baddiel,19
+9,10,Think about the spirit.,2019-11-06,Katy Wix,9
+9,10,Think about the spirit.,2019-11-06,David Baddiel,10
+9,10,Think about the spirit.,2019-11-06,Jo Brand,10
+9,10,Think about the spirit.,2019-11-06,Ed Gamble,12
+9,10,Think about the spirit.,2019-11-06,Rose Matafeo,12
+10,1,God's haemorrhoid.,2020-10-15,Katherine Parkinson,6
+10,1,God's haemorrhoid.,2020-10-15,Mawaan Rizwan,8
+10,1,God's haemorrhoid.,2020-10-15,Johnny Vegas,10
+10,1,God's haemorrhoid.,2020-10-15,Daisy May Cooper,11
+10,1,God's haemorrhoid.,2020-10-15,Richard Herring,12
+10,2,A documentary about a despot.,2020-10-22,Johnny Vegas,15
+10,2,A documentary about a despot.,2020-10-22,Mawaan Rizwan,16
+10,2,A documentary about a despot.,2020-10-22,Daisy May Cooper,18
+10,2,A documentary about a despot.,2020-10-22,Katherine Parkinson,19
+10,2,A documentary about a despot.,2020-10-22,Richard Herring,19
+10,3,Point of swivel.,2020-10-29,Katherine Parkinson,7
+10,3,Point of swivel.,2020-10-29,Mawaan Rizwan,14
+10,3,Point of swivel.,2020-10-29,Richard Herring,15
+10,3,Point of swivel.,2020-10-29,Johnny Vegas,17
+10,3,Point of swivel.,2020-10-29,Daisy May Cooper,19
+10,4,Toshwash.,2020-11-05,Mawaan Rizwan,13
+10,4,Toshwash.,2020-11-05,Richard Herring,13
+10,4,Toshwash.,2020-11-05,Katherine Parkinson,15
+10,4,Toshwash.,2020-11-05,Johnny Vegas,17
+10,4,Toshwash.,2020-11-05,Daisy May Cooper,19
+10,5,I hate your trainers.,2020-11-12,Johnny Vegas,15
+10,5,I hate your trainers.,2020-11-12,Mawaan Rizwan,17
+10,5,I hate your trainers.,2020-11-12,Katherine Parkinson,20
+10,5,I hate your trainers.,2020-11-12,Daisy May Cooper,24
+10,5,I hate your trainers.,2020-11-12,Richard Herring,26
+10,6,Hippopotamus.,2020-11-19,Katherine Parkinson,10
+10,6,Hippopotamus.,2020-11-19,Richard Herring,12
+10,6,Hippopotamus.,2020-11-19,Daisy May Cooper,14
+10,6,Hippopotamus.,2020-11-19,Johnny Vegas,19
+10,6,Hippopotamus.,2020-11-19,Mawaan Rizwan,22
+10,7,Legit glass.,2020-11-26,Richard Herring,9
+10,7,Legit glass.,2020-11-26,Daisy May Cooper,11
+10,7,Legit glass.,2020-11-26,Katherine Parkinson,13
+10,7,Legit glass.,2020-11-26,Johnny Vegas,16
+10,7,Legit glass.,2020-11-26,Mawaan Rizwan,16
+10,8,Moments of silence.,2020-12-03,Daisy May Cooper,7
+10,8,Moments of silence.,2020-12-03,Mawaan Rizwan,10
+10,8,Moments of silence.,2020-12-03,Johnny Vegas,12
+10,8,Moments of silence.,2020-12-03,Katherine Parkinson,12
+10,8,Moments of silence.,2020-12-03,Richard Herring,18
+10,9,Air Horn Andy.,2020-12-10,Katherine Parkinson,6
+10,9,Air Horn Andy.,2020-12-10,Johnny Vegas,9
+10,9,Air Horn Andy.,2020-12-10,Mawaan Rizwan,18
+10,9,Air Horn Andy.,2020-12-10,Daisy May Cooper,20
+10,9,Air Horn Andy.,2020-12-10,Richard Herring,21
+10,10,Dog meat trifle.,2020-12-17,Johnny Vegas,9
+10,10,Dog meat trifle.,2020-12-17,Katherine Parkinson,10
+10,10,Dog meat trifle.,2020-12-17,Daisy May Cooper,15
+10,10,Dog meat trifle.,2020-12-17,Mawaan Rizwan,17
+10,10,Dog meat trifle.,2020-12-17,Richard Herring,17
+11,1,It's not your fault.,2021-03-18,Charlotte Ritchie,5
+11,1,It's not your fault.,2021-03-18,Jamali Maddix,7
+11,1,It's not your fault.,2021-03-18,Lee Mack,17
+11,1,It's not your fault.,2021-03-18,Mike Wozniak,17
+11,1,It's not your fault.,2021-03-18,Sarah Kendall,18
+11,2,The Lure of the Treacle Puppies.,2021-03-25,Charlotte Ritchie,12
+11,2,The Lure of the Treacle Puppies.,2021-03-25,Jamali Maddix,13
+11,2,The Lure of the Treacle Puppies.,2021-03-25,Lee Mack,16
+11,2,The Lure of the Treacle Puppies.,2021-03-25,Sarah Kendall,17
+11,2,The Lure of the Treacle Puppies.,2021-03-25,Mike Wozniak,21
+11,3,Run up a tree to the moon.,2021-04-01,Charlotte Ritchie,11
+11,3,Run up a tree to the moon.,2021-04-01,Jamali Maddix,11
+11,3,Run up a tree to the moon.,2021-04-01,Mike Wozniak,13
+11,3,Run up a tree to the moon.,2021-04-01,Lee Mack,18
+11,3,Run up a tree to the moon.,2021-04-01,Sarah Kendall,20
+11,4,Premature conker.,2021-04-08,Mike Wozniak,6
+11,4,Premature conker.,2021-04-08,Lee Mack,7
+11,4,Premature conker.,2021-04-08,Charlotte Ritchie,13
+11,4,Premature conker.,2021-04-08,Jamali Maddix,21
+11,4,Premature conker.,2021-04-08,Sarah Kendall,23
+11,5,Slap and tong.,2021-04-15,Lee Mack,12
+11,5,Slap and tong.,2021-04-15,Sarah Kendall,12
+11,5,Slap and tong.,2021-04-15,Mike Wozniak,14
+11,5,Slap and tong.,2021-04-15,Jamali Maddix,15
+11,5,Slap and tong.,2021-04-15,Charlotte Ritchie,17
+11,6,Absolute casserole.,2021-04-22,Charlotte Ritchie,11
+11,6,Absolute casserole.,2021-04-22,Lee Mack,13
+11,6,Absolute casserole.,2021-04-22,Sarah Kendall,16
+11,6,Absolute casserole.,2021-04-22,Jamali Maddix,17
+11,6,Absolute casserole.,2021-04-22,Mike Wozniak,17
+11,7,You've got no chutzpah.,2021-04-29,Charlotte Ritchie,9
+11,7,You've got no chutzpah.,2021-04-29,Jamali Maddix,12
+11,7,You've got no chutzpah.,2021-04-29,Sarah Kendall,12
+11,7,You've got no chutzpah.,2021-04-29,Mike Wozniak,14
+11,7,You've got no chutzpah.,2021-04-29,Lee Mack,22
+11,8,An orderly species.,2021-05-06,Charlotte Ritchie,11
+11,8,An orderly species.,2021-05-06,Sarah Kendall,12
+11,8,An orderly species.,2021-05-06,Jamali Maddix,16
+11,8,An orderly species.,2021-05-06,Mike Wozniak,17
+11,8,An orderly species.,2021-05-06,Lee Mack,18
+11,9,Mr Octopus and Pottyhands.,2021-05-13,Lee Mack,9
+11,9,Mr Octopus and Pottyhands.,2021-05-13,Jamali Maddix,13
+11,9,Mr Octopus and Pottyhands.,2021-05-13,Sarah Kendall,16
+11,9,Mr Octopus and Pottyhands.,2021-05-13,Mike Wozniak,18
+11,9,Mr Octopus and Pottyhands.,2021-05-13,Charlotte Ritchie,20
+11,10,Activate Jamali.,2021-05-20,Jamali Maddix,12
+11,10,Activate Jamali.,2021-05-20,Sarah Kendall,12
+11,10,Activate Jamali.,2021-05-20,Charlotte Ritchie,16
+11,10,Activate Jamali.,2021-05-20,Mike Wozniak,17
+11,10,Activate Jamali.,2021-05-20,Lee Mack,19
+12,1,An imbalance in the poppability.,2021-09-23,Victoria Coren Mitchell,12
+12,1,An imbalance in the poppability.,2021-09-23,Guz Khan,14
+12,1,An imbalance in the poppability.,2021-09-23,Alan Davies,15
+12,1,An imbalance in the poppability.,2021-09-23,Desiree Burch,16
+12,1,An imbalance in the poppability.,2021-09-23,Morgana Robinson,17
+12,2,Oatmeal and death.,2021-09-30,Victoria Coren Mitchell,13
+12,2,Oatmeal and death.,2021-09-30,Alan Davies,16
+12,2,Oatmeal and death.,2021-09-30,Desiree Burch,16
+12,2,Oatmeal and death.,2021-09-30,Morgana Robinson,17
+12,2,Oatmeal and death.,2021-09-30,Guz Khan,20
+12,3,The end of the franchise.,2021-10-07,Victoria Coren Mitchell,13
+12,3,The end of the franchise.,2021-10-07,Alan Davies,14
+12,3,The end of the franchise.,2021-10-07,Guz Khan,14
+12,3,The end of the franchise.,2021-10-07,Morgana Robinson,18
+12,3,The end of the franchise.,2021-10-07,Desiree Burch,21
+12,4,The customised inhaler.,2021-10-14,Morgana Robinson,13
+12,4,The customised inhaler.,2021-10-14,Guz Khan,14
+12,4,The customised inhaler.,2021-10-14,Desiree Burch,15
+12,4,The customised inhaler.,2021-10-14,Victoria Coren Mitchell,16
+12,4,The customised inhaler.,2021-10-14,Alan Davies,21
+12,5,Croissants is croissants.,2021-10-21,Desiree Burch,8
+12,5,Croissants is croissants.,2021-10-21,Victoria Coren Mitchell,10
+12,5,Croissants is croissants.,2021-10-21,Alan Davies,14
+12,5,Croissants is croissants.,2021-10-21,Morgana Robinson,17
+12,5,Croissants is croissants.,2021-10-21,Guz Khan,21
+12,6,A chair in a sweet.,2021-10-28,Victoria Coren Mitchell,9
+12,6,A chair in a sweet.,2021-10-28,Alan Davies,14
+12,6,A chair in a sweet.,2021-10-28,Desiree Burch,17
+12,6,A chair in a sweet.,2021-10-28,Morgana Robinson,17
+12,6,A chair in a sweet.,2021-10-28,Guz Khan,19
+12,7,The integrity of the product.,2021-11-04,Guz Khan,8
+12,7,The integrity of the product.,2021-11-04,Morgana Robinson,14
+12,7,The integrity of the product.,2021-11-04,Alan Davies,16
+12,7,The integrity of the product.,2021-11-04,Desiree Burch,17
+12,7,The integrity of the product.,2021-11-04,Victoria Coren Mitchell,18
+12,8,A couple of Ethels.,2021-11-11,Desiree Burch,9
+12,8,A couple of Ethels.,2021-11-11,Victoria Coren Mitchell,9
+12,8,A couple of Ethels.,2021-11-11,Morgana Robinson,19
+12,8,A couple of Ethels.,2021-11-11,Alan Davies,21
+12,8,A couple of Ethels.,2021-11-11,Guz Khan,21
+12,9,Nothing matters.,2021-11-18,Victoria Coren Mitchell,8
+12,9,Nothing matters.,2021-11-18,Alan Davies,11
+12,9,Nothing matters.,2021-11-18,Guz Khan,14
+12,9,Nothing matters.,2021-11-18,Morgana Robinson,18
+12,9,Nothing matters.,2021-11-18,Desiree Burch,21
+12,10,Caring Uncle Minpict.,2021-11-25,Victoria Coren Mitchell,13
+12,10,Caring Uncle Minpict.,2021-11-25,Morgana Robinson,18
+12,10,Caring Uncle Minpict.,2021-11-25,Alan Davies,19
+12,10,Caring Uncle Minpict.,2021-11-25,Desiree Burch,21
+12,10,Caring Uncle Minpict.,2021-11-25,Guz Khan,22
+13,1,The noise that blue makes.,2022-04-14,Ardal O'Hanlon,10
+13,1,The noise that blue makes.,2022-04-14,Judi Love,10
+13,1,The noise that blue makes.,2022-04-14,Bridget Christie,16
+13,1,The noise that blue makes.,2022-04-14,Sophie Duker,18
+13,1,The noise that blue makes.,2022-04-14,Chris Ramsey,23
+13,2,Birdy hand finger.,2022-04-21,Sophie Duker,13
+13,2,Birdy hand finger.,2022-04-21,Judi Love,14
+13,2,Birdy hand finger.,2022-04-21,Ardal O'Hanlon,15
+13,2,Birdy hand finger.,2022-04-21,Bridget Christie,16
+13,2,Birdy hand finger.,2022-04-21,Chris Ramsey,18
+13,3,I think I've got this.,2022-04-28,Ardal O'Hanlon,11
+13,3,I think I've got this.,2022-04-28,Chris Ramsey,13
+13,3,I think I've got this.,2022-04-28,Judi Love,16
+13,3,I think I've got this.,2022-04-28,Sophie Duker,16
+13,3,I think I've got this.,2022-04-28,Bridget Christie,25
+13,4,Shoe Who.,2022-05-05,Bridget Christie,16
+13,4,Shoe Who.,2022-05-05,Judi Love,16
+13,4,Shoe Who.,2022-05-05,Sophie Duker,16
+13,4,Shoe Who.,2022-05-05,Ardal O'Hanlon,17
+13,4,Shoe Who.,2022-05-05,Chris Ramsey,17
+13,5,Having a little chuckle.,2022-05-12,Bridget Christie,11
+13,5,Having a little chuckle.,2022-05-12,Chris Ramsey,11
+13,5,Having a little chuckle.,2022-05-12,Judi Love,11
+13,5,Having a little chuckle.,2022-05-12,Sophie Duker,13
+13,5,Having a little chuckle.,2022-05-12,Ardal O'Hanlon,21
+13,6,The 75th question.,2022-05-19,Bridget Christie,9
+13,6,The 75th question.,2022-05-19,Judi Love,11
+13,6,The 75th question.,2022-05-19,Ardal O'Hanlon,12
+13,6,The 75th question.,2022-05-19,Chris Ramsey,15
+13,6,The 75th question.,2022-05-19,Sophie Duker,15
+13,7,Heg.,2022-05-26,Bridget Christie,19
+13,7,Heg.,2022-05-26,Chris Ramsey,19
+13,7,Heg.,2022-05-26,Ardal O'Hanlon,20
+13,7,Heg.,2022-05-26,Judi Love,24
+13,7,Heg.,2022-05-26,Sophie Duker,28
+13,8,You tuper super.,2022-06-02,Judi Love,10
+13,8,You tuper super.,2022-06-02,Chris Ramsey,14
+13,8,You tuper super.,2022-06-02,Ardal O'Hanlon,18
+13,8,You tuper super.,2022-06-02,Sophie Duker,19
+13,8,You tuper super.,2022-06-02,Bridget Christie,20
+13,9,It might be wind.,2022-06-09,Bridget Christie,7
+13,9,It might be wind.,2022-06-09,Sophie Duker,13
+13,9,It might be wind.,2022-06-09,Ardal O'Hanlon,14
+13,9,It might be wind.,2022-06-09,Judi Love,17
+13,9,It might be wind.,2022-06-09,Chris Ramsey,19
+13,10,The House Queens.,2022-06-16,Judi Love,13
+13,10,The House Queens.,2022-06-16,Ardal O'Hanlon,15
+13,10,The House Queens.,2022-06-16,Bridget Christie,18
+13,10,The House Queens.,2022-06-16,Chris Ramsey,21
+13,10,The House Queens.,2022-06-16,Sophie Duker,22
