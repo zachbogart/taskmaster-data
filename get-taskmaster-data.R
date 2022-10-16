@@ -4,6 +4,46 @@ library(here)
 library(janitor)
 library(lubridate)
 
+## Get Totals ----
+
+getSeriesTotals <- function(series) {
+    url <- paste0("https://taskmaster.fandom.com/wiki/Series_", series)
+    
+    html <- read_html(url)
+    
+    # read in raw
+    df <- html %>% 
+        html_element(".tmtable") %>% 
+        html_table(header = T)
+    
+    rawTable <- df %>% 
+        # remove totals, count episodes
+        filter(str_detect(Task, "^Total|^Episode")) %>% 
+        mutate(temp = str_detect(Task, "^Episode")) %>% 
+        mutate(episode = cumsum(temp), .before = Task) %>% 
+        select(-temp)
+    
+    dataTotals <- rawTable %>% 
+        filter(!str_detect(Task, "^Episode")) %>% 
+        pivot_longer(
+            cols = -c(episode, Task, Description),
+            names_to = "player",
+            values_to = "score"
+        ) %>% 
+        clean_names() %>% 
+        select(-c(task, description)) %>% 
+        mutate(series = series, .before = everything())
+    
+    return(dataTotals)
+}
+
+rawTotals <- map_dfr(seq(1, 13), ~getSeriesTotals(.x))
+
+totals <- rawTotals %>% 
+    mutate(total = as.numeric(str_replace(score, "\\[[0-9]\\]", ""))) %>% 
+    select(-score) %>% 
+    arrange(series, episode, total)
+
 ## Get Series Data ----
 getSeriesData <- function(series) {
     
@@ -99,11 +139,20 @@ seriesTotals <- taskmaster2 %>%
     summarise(total = sum(score, na.rm = T)) %>% 
     arrange(series, total)
 
-testingTotals <- taskmaster2 %>% 
-    filter(series == 1) %>% 
-    group_by(episode, player) %>% 
+episodeTotals <- taskmaster2 %>% 
+    group_by(series, episode, player) %>% 
     summarise(total = sum(score, na.rm = T)) %>% 
-    arrange(episode, total)
+    arrange(series, episode, total)
 
-testingTotals %>% 
-    print(n = nrow(.))
+checkTotals <- episodeTotals %>% 
+    left_join(
+        totals, 
+        by = c("series", "episode", "player"),
+        suffix = c("", "_table")
+    )
+mismatchedEpisodes <- checkTotals %>% 
+    filter(total != total_table)
+
+mismatchedEpisodes %>% 
+    select(series, episode) %>% 
+    distinct()
