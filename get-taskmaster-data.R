@@ -1,3 +1,11 @@
+#' Getting Taskmaster Data Wrangled
+#' - Scrape wiki data, export results
+#' 
+#' Notes:
+#' - 2022-10-15: Exported episode player totals, task-level tables within
+#'   each episode is more challenging, need to handle corner case somehow
+#'
+
 library(tidyverse)
 library(rvest)
 library(here)
@@ -102,7 +110,7 @@ getSeriesData <- function(series) {
 
 taskmaster0 <- map_dfr(seq(1, 13), ~getSeriesData(.x))
 
-## Scores ----
+### Scores ----
 
 # clean scores
 cleanScores <- suppressWarnings(
@@ -120,7 +128,7 @@ cleanScores <- suppressWarnings(
 
 taskmaster1 <- cleanScores
 
-## Episode Strings ----
+### Episode Strings ----
 rawEpisodes <- taskmaster1 %>% 
     select(series, episode, episodeRawString) %>% 
     distinct()
@@ -143,7 +151,7 @@ taskmaster2 <- taskmaster1 %>%
     select(-episodeRawString) %>% 
     relocate(name, .after = episode)
 
-## TODO: Checking totals ----
+### TODO: Checking totals ----
 #' There are some row entries that have subparts
 #' even though they actually just show one value
 #' (multiple rows for text, one for points)
@@ -162,10 +170,6 @@ checkTotals <- episodeTotals %>%
     )
 mismatchedEpisodes <- checkTotals %>% 
     filter(total != total_table)
-
-mismatchedEpisodes %>% 
-    select(series, episode) %>% 
-    distinct()
 
 # duplicates, trying to filter out subtask repeats
 dupes <- taskmaster2 %>% 
