@@ -99,7 +99,7 @@ cleanScores <- suppressWarnings(
     # score as a number in R
     mutate(score = as.numeric(score))
 )
-    
+
 taskmaster1 <- cleanScores
 
 ## Episode Strings ----
@@ -125,19 +125,11 @@ taskmaster2 <- taskmaster1 %>%
     select(-episodeRawString) %>% 
     relocate(name, .after = episode)
 
-# repeats
-taskmaster2 %>% 
-    group_by(series, episode, task, player) %>% 
-    filter(n() > 1) %>% 
-    arrange(series, episode, task, player) %>% view()
-
-
-# Checking totals ----
-
-seriesTotals <- taskmaster2 %>% 
-    group_by(series, player) %>% 
-    summarise(total = sum(score, na.rm = T)) %>% 
-    arrange(series, total)
+## TODO: Checking totals ----
+#' There are some row entries that have subparts
+#' even though they actually just show one value
+#' (multiple rows for text, one for points)
+#' --> Need a way to get rid of these
 
 episodeTotals <- taskmaster2 %>% 
     group_by(series, episode, player) %>% 
@@ -156,3 +148,11 @@ mismatchedEpisodes <- checkTotals %>%
 mismatchedEpisodes %>% 
     select(series, episode) %>% 
     distinct()
+
+# duplicates, trying to filter out subtask repeats
+dupes <- taskmaster2 %>% 
+    group_by(series, episode, task, player) %>% 
+    arrange(series, episode, task, player) %>% 
+    filter(n() > 1)
+
+# Export ----
